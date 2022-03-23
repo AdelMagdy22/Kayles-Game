@@ -153,6 +153,6 @@ while temp:
     of player2 and continue the game.
     """
     if len(temp_list) == 0:
-        print(f"\nThe winner is : {Who_Play}")
+        print(f"\nThe winner is : {Who_Play}\n")
         temp = False
         break
